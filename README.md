@@ -1,1 +1,1 @@
-# leetcode
+Leetcode submissions in c++.
