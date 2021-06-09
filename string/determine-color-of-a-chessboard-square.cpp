@@ -1,3 +1,4 @@
+//1812. Determine Color of a Chessboard Square
 class Solution {
 public:
     bool squareIsWhite(string coordinates) {
