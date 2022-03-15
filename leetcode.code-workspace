@@ -68,7 +68,9 @@
 			"utility": "cpp",
 			"vector": "cpp",
 			"clocale": "cpp",
-			"deque": "cpp"
+			"deque": "cpp",
+			"thread": "cpp",
+			"coroutine": "cpp"
 		}
 	}
 }
